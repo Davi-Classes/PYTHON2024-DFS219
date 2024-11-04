@@ -1,5 +1,5 @@
-# Repositório do Ciclo de Python da Turma DFS519
-Repositório para armazenar codigos das aulas da turma DFS519
+# Repositório do Ciclo de Python da Turma DFS219
+Repositório para armazenar codigos das aulas da turma DFS219
 
 ## Módulos
 - Lógica de Programação (Em Andamento)
