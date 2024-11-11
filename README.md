@@ -2,8 +2,8 @@
 Repositório para armazenar codigos das aulas da turma DFS219
 
 ## Módulos
-- Lógica de Programação (Em Andamento)
-- Python (Não Realizado)
+- Lógica de Programação (Finalizado)
+- Python (Em Andamento)
 
 ## Listas de Exercicio
 https://wiki.python.org.br/ListaDeExercicios
