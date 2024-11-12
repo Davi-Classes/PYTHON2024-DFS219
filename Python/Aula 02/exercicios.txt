@@ -1,0 +1,30 @@
+Ex01. Faça um programa que peça: nome e 3 notas de um aluno, depois armazene no dicionário as seguintes informações:
+- nome
+- notas (lista)
+- media
+- situacao ('APROVADO' se maior que 6, se não, 'REPROVADO')
+
+Depois mostre as informações do aluno na tela.
+
+Ex02. Crie um dicionário que armazene as idades de 5 pessoas (Já preenchido),usando o nome como chave e a idade como valor. Então.
+
+a. Adicione uma nova pessoa ao dicionário com seu respectivo nome e idade e exiba o dicionário atualizado.
+
+b. Utilize um for para adicionar 3 novas pessoas ao invés de uma
+
+Ex03. Dado o dicionário abaixo, remova o item com a chave "idade" (utilizando a função pop()) e exiba o dicionário atualizado.
+
+"""python
+estoque = {"banana": 10, "laranja": 5, "uva": 8}
+"""
+
+Ex04. Dado o dicionário abaixo, que representa o salário de diferentes cargos em uma empresa, some os salários de todos os cargos e exiba o total.
+
+"""python
+salarios = {
+    "gerente": 5000, 
+    "analista": 4000, 
+    "desenvolvedor": 3500, 
+    "estagiário": 1500
+}
+"""
