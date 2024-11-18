@@ -12,7 +12,7 @@ a. Adicione uma nova pessoa ao dicionário com seu respectivo nome e idade e exi
 
 b. Utilize um for para adicionar 3 novas pessoas ao invés de uma
 
-Ex03. Dado o dicionário abaixo, remova o item com a chave "idade" (utilizando a função pop()) e exiba o dicionário atualizado.
+Ex03. Dado o dicionário abaixo, remova o item com a chave "laranja" (utilizando a função pop()) e exiba o dicionário atualizado.
 
 """python
 estoque = {"banana": 10, "laranja": 5, "uva": 8}
