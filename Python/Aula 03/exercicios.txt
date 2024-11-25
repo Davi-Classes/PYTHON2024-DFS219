@@ -1,0 +1,15 @@
+Ex01. Faça um programa que peça 3 numeros e informe o maior e o menor.
+
+Ex02. Faça um programa para pedir modelo, ano, preço fip e kilometragem de um carro (uso). Depois, calcule o preço final do carro a partir da kilometragem:
+
+- Km maior que 300_000, - 50%
+- Km maior que 200_000, - 35%
+- Km maior que 150_000, - 30%
+- Km maior que 100_000, - 20%
+- Outros Km             - 15%
+
+Ex03. Faça um programa que peça uma quantidade indefinida de numeros de numeros e adicione-os em uma lista, a cada valor inserido pergunte se o usuário deseja continuar, depois mostre o maior e o menor numero digitado. 
+
+Ex04. Faça um programa que peça um numero e mostre o enésimo termo da sequencia de fibonacci. Exemplo:
+>>> Até qual termo deseja mostrar? 8
+0 1 1 2 3 5 8 13
