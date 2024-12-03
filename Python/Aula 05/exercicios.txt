@@ -1,0 +1,17 @@
+Ex01. Faça uma função "calcular_media" que recebe 3 numeros e retorna a média desses numeros.
+
+Ex02. Faça uma função chamada "verificar_par" que recebe um numero e retorna um booleano (True se for par, False se for impar)
+
+Ex03. Faça uma função "listar_nomes" que recebe uma lista de nomes e mostra todos os nomes no formato abaixo:
+Dica: Utilize um For
+
+Entrada: ["Marcos", "Gabriel", "Lidia"]
+"""
+Nomes:
+- Marcos
+- Gabriel
+- Lidia
+"""
+
+Ex04. Faça uma função chamada "cadastrar_pessoa" que não conterá parametros, e irá retornar um dicionário com as chaves "nome", "idade" e "profissao". Os dados serão solicitados através de um input dentro da função.
+
