@@ -1,0 +1,14 @@
+Projeto 
+
+Você foi contratado para desenvolver um sistema de uma loja de doces que pretende realizar uma promoção onde um brinde será sorteado entre os clientes do dia. 
+O sorteio funcionará da seguinte forma:
+
+- O programa deve mostrar um Menu com 3 opções (Listar vendas, Registrar nova venda, Encerrar)
+
+- Ao registrar uma venda, o caixa da loja perguntará ao cliente sobre seu nome, telefone e endereço, inscrevendo essas informações em uma aplicação que ficará executando durante todo o expediente da loja (ou seja: em processo de repetição).
+
+- A aplicação guardará todas as ocorrências de clientes informados (em uma lista de dicionários, ou lista de tuplas) até que o caixa seja encerrado.
+
+- No final do expediente, o caixa informará a opção de "encerrar", e a aplicação sorteará um dos clientes atendidos ao longo do dia.
+
+- A aplicação informará na tela todos os dados do cliente sorteado e se encerrará.
