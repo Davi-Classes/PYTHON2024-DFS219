@@ -1,0 +1,12 @@
+Ambientes Virtuais
+
+1. Criando Ambiente Virtual
+python3 -m venv .venv
+
+2. Ativando Ambiente Virtual
+source .venv/script/activate
+
+3. Instalando Bibliotecas (No Caso o PyautoGUI)
+pip install pyautogui
+
+Link: https://www.youtube.com/watch?v=m1TYpvIYm74&pp=ygUZQW1iaWVudGVzIHZpcnR1YWlzIHB5dGhvbg%3D%3D

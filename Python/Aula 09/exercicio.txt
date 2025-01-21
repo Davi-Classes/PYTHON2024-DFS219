@@ -1,0 +1,5 @@
+Ex01. Faça um site com o streamlit de curriculo! O seu site deve conter os tópicos:
+
+- Apresentação (Uma imagem sua e um texto de apresentação)
+- Habilidades (Uma lista não ordenada)
+- Experiências Profissionais (Uma lista ordenada)
