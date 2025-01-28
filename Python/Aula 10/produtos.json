@@ -1,0 +1,14 @@
+{
+    "produtos": {
+        "1": {
+            "Nome": "Samsung A55",
+            "Pre\u00e7o": 1600.99,
+            "Descricao": "Celular da Samsung"
+        },
+        "2": {
+            "Nome": "Iphone 15",
+            "Pre\u00e7o": 3000.0,
+            "Descricao": "Celular da Apple, MUITO CARO."
+        }
+    }
+}
