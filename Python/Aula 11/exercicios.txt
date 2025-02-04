@@ -1,0 +1,48 @@
+Ex01. Criem uma Classe "Celular" que deve conter as propriedades:
+
+- marca
+- modelo
+- cor
+
+a. Crie um objeto da classe "Celular"
+b. Mostre a marca desse celular
+c. Crie outro objeto da classe "Celular"
+d. Mostre o modelo e a cor desse outro celular.
+
+------------------------------------------------------------
+
+Ex02. Criem uma classe "Cachorro" que deve conter as propriedades:
+
+- nome
+- raca
+- idade
+
+Essa classe também deve ter um metódo "latir()" que irá mostrar na tela:
+"O {nome do cachorro} está latindo"
+
+a. Crie um objeto da classe "Cachorro"
+b. Chame o metódo "latir()" para esse cachorro
+c. Crie outro objeto da classe "Cachorro"
+d. Chame o metódo "latir()" para esse outro cachorro.
+e. Crie um metódo "aniversario()" que toda vez que for chamado 
+irá somar a propria idade do cachorro em +1
+
+------------------------------------------------------------
+
+Ex03. Criem uma Classe "Conta" que deve conter as propriedades:
+
+- titular
+- saldo (opcional, caso não seja passado começará em 0)
+
+A classe conta também deve conter os metódos
+
+- depositar(valor: float)
+    Aumenta o valor do saldo da conta
+
+- sacar(valor: float)
+    Diminui o valor do saldo da conta, onde não pode
+    ser sacado mais do que há na conta.
+
+- transferir(valor: float, conta_destino: 'Conta')
+    Irá sacar da conta que chamar esse metódo
+    e depositar na conta que for passada como parametro
