@@ -1,0 +1,23 @@
+Ex01. Crie uma classe chamada "Funcionario" que deve ter os atributos e metódos:
+
+Atributos:
+- nome
+- salario
+
+Metódos:
+- calcular_salario()
+
+O calcular salário deve retornar o salario com uma dedução de 3%.
+
+a. Crie uma classe "Gerente" que deve ter os mesmos atributos do Funcionário, mas a dedução do salário deve ser de 11% no "calcular_salario()".
+
+b. Crie uma classe "Vendedor" que deve ter um atributo de "comissao: float", que será informado no construtor. O salario deve ter uma dedução de 8% "calcular_salario()" mas deve somar o valor da comissão.
+
+-------------------------------------------------------------------------------
+Ex02. Crie uma classe "Imposto" que deve ter um metódo "calcular(valor: float)", que retornará o proprio valor.
+
+a. Crie uma classe ISS, que irá herdar de "Imposto", mas o metódo "calcular(valor: float)" deve retornar o valor do imposto com uma dedução de 6%
+
+b. Crie uma outra classe ICMS, que irá herdar de "Imposto", mas o metódo "calcular(valor: float)" deve retornar o valor do imposto com uma dedução de 7%
+
+c. Crie uma função chamada "calcular_impostos" fora das classes, que irá receber o valor, e uma lista com dois objetos das classes "ISS" e "ICMS" respectivamente.
