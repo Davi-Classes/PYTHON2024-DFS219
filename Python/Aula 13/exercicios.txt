@@ -1,0 +1,35 @@
+Ex01. Crie uma classe "Pessoa" que deve conter:
+
+Atributos
+- nome (str)
+- data_nascimento (date)
+- endereco (Endereco)
+
+A propriedade "endereco" será uma outra classe "Endereco" que terá:
+
+Atributos
+- cep (str)
+- rua (str)
+- numero (str)
+- bairro (str)
+- cidade (str)
+- estado (str)
+- complemento (str)
+
+Metódos:
+- formatar() | Retorna o endereço formatado em uma String
+
+A formatação será:
+"Rua, Numero - Bairro | Cidade - Estado, Cep"
+
+----------------------------------------------------------------------
+Ex02. Aproveitando a classe pessoa criada anteriormente
+Crie uma classe chamada "BancoDePessoas" que será da seguinte forma:
+
+Atributos:
+- pessoas (list[Pessoa])
+
+Metódos:
+- adicionar_pessoa(pessoa) | Adiciona uma pessoa na lista
+- buscar_pessoa_pelo_nome(nome) | Busca a pessoa pelo nome, ou retorna "None"
+- remover_pessoa_pelo_nome(nome) | Remove uma pessoa da lista
