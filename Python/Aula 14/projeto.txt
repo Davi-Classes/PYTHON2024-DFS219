@@ -1,0 +1,21 @@
+Projeto
+
+Você foi contratado para desenvolver um sistema de gerenciamento de pessoas.
+No sistema deve ser possivel realizar
+
+- Listagem das Pessoas cadastradas
+    - Deve mostrar todos os dados exceto o endereço
+- Cadatrar uma nova Pessoa
+    - Você deve armazenar "nome", "cpf", "data_nascimento" e "endereco"
+    - O endereco deve conter "cep", "rua", "numero", "bairro", "cidade", 
+    "estado" e "complemento"
+    - Você não pode cadastrar 2 pessoas com o mesmo CPF.
+- Detalhar uma Pessoa
+    - Deve ser possivel detalhar uma pessoa pelo CPF
+    - Deve mostrar os dados completos da pessoa
+- Editar uma Pessoa
+    - Deve ser possivel editar uma pessoa, através do CPF
+    - O CPF não deve ser editavel
+- Excluir uma Pessoa
+    - Deve ser possivel excluir uma pessoa através do CPF
+
